@@ -1,4 +1,4 @@
-# Snowflake Chat - RAG Based Assistant
+# Snowflake Chat (RAG Based Assistant)
 
 A local Streamlit application that allows you to query Snowflake data using natural language with the power of LangGraph agents.
 
