@@ -1,7 +1,5 @@
 # Snowflake Chat (RAG Agent)
 
-![Screen](images/screen.png)
-
 A local Streamlit application that allows you to query Snowflake data using natural language with the power of LangGraph agents.
 
 [Click for streamlit live demo](https://snow-rag-chat.streamlit.app/) - Requires DB credentials and API key
